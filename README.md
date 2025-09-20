@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 OMR Evaluation System
 
 
@@ -92,3 +93,6 @@ http://localhost:8501
 ```
 
 ---
+=======
+# OMR-Evaluation-System
+>>>>>>> c742e3a84761b4dca39eacfe88e90cd2db273a31
