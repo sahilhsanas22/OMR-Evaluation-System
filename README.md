@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 OMR Evaluation System
 
 
